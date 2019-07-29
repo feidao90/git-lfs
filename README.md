@@ -1,4 +1,4 @@
-# git-lfs
+# git-lfs (Large File Storage)
 git lfs管理
 
 ##  mac安装
